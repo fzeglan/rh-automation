@@ -1,0 +1,17 @@
+{
+    "empresa": "Tech Solutions Ltda",
+    "email_rh": "rh@techsolutions.com",
+    "senha": "sua_senha_aqui",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "criterios": {
+        "experiencia_minima": 2,
+        "educacao_minima": "Superior",
+        "habilidades_requeridas": ["Python", "SQL", "Git", "Java", "JavaScript"],
+        "score_minimo": 50
+    },
+    "email_template": {
+        "assunto_aprovado": "Processo Seletivo - Próxima Fase",
+        "assunto_reprovado": "Atualização sobre seu Processo Seletivo"
+    }
+}

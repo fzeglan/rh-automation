@@ -1,0 +1,29 @@
+==================================================
+RELATÓRIO DE TRIAGEM - RECRUTAMENTO
+==================================================
+
+Candidatos aprovados: 4
+Candidatos reprovados: 4
+Taxa de aprovação: 50.0%
+
+TOP CANDIDATOS APROVADOS:
+1º - Pedro Costa (Score: 90)
+   Email: pedro.costa@email.com
+   Experiência: 4 anos
+   Habilidades compatíveis: JavaScript, SQL, Python, Git
+
+2º - Carlos Lima (Score: 90)
+   Email: carlos.lima@email.com
+   Experiência: 5 anos
+   Habilidades compatíveis: SQL, Python, Java, Git
+
+3º - João Silva (Score: 80)
+   Email: joao.silva@email.com
+   Experiência: 3 anos
+   Habilidades compatíveis: SQL, Python, Git
+
+4º - Roberto Alves (Score: 80)
+   Email: roberto.alves@email.com
+   Experiência: 3 anos
+   Habilidades compatíveis: SQL, Python, Git
+

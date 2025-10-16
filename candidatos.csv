@@ -1,0 +1,9 @@
+nome,email,experiencia_anos,formacao,habilidades
+João Silva,joao.silva@email.com,3,Superior em Ciência da Computação,"Python,SQL,Git,Linux"
+Maria Santos,maria.santos@email.com,1,Superior em Análise de Sistemas,"Java,MySQL,HTML"
+Pedro Costa,pedro.costa@email.com,4,Superior em Engenharia de Software,"Python,JavaScript,SQL,Git,Docker"
+Ana Oliveira,ana.oliveira@email.com,2,Técnico em Informática,"Python,Excel,PowerPoint"
+Carlos Lima,carlos.lima@email.com,5,Superior em Ciência da Computação,"Java,Python,SQL,Git,AWS"
+Juliana Pereira,juliana.pereira@email.com,1,Superior em Sistemas de Informação,"JavaScript,HTML,CSS"
+Roberto Alves,roberto.alves@email.com,3,Superior em Engenharia da Computação,"Python,SQL,Git,MongoDB"
+Fernanda Souza,fernanda.souza@email.com,0,Cursando Superior,"Python,Java"
