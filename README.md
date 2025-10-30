@@ -35,7 +35,7 @@ Score mínimo para aprovação: 50 pontos
 
 ## 📁 **Estrutura do Projeto**
 ```
-automacao-rh/
+rh-automation/
 ├── 📄 rh_automation.py          # Classe principal
 ├── ⚙️ config_rh.json            # Configurações do sistema
 ├── 👥 candidatos.csv            # Exemplo de dados de entrada
@@ -54,8 +54,8 @@ automacao-rh/
 
 ### 1. Clone o Repositório
 ```
-git clone https://github.com/fzeglan/automacao-rh.git
-cd automacao-rh
+git clone https://github.com/fzeglan/rh-automation.git
+cd rh-automation
 ```
 ### 2. Instale as Dependências
 ```
