@@ -88,7 +88,7 @@ Crie um arquivo ```candidatos.csv```:
 ```
 ## 📊 **Exemplo de Saída ( Arquivo TXT )**
 
-![arquivoSaida](requirements/arquivosaida.png)
+![arquivoSaida](requirements/arquivosaida2.png)
 
 ## 🎯 **Casos de Uso**
 - **Startups** - Otimizar processos de recrutamento com equipes enxutas
